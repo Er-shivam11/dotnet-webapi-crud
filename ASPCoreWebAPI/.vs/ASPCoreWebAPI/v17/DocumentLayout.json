@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\practise\\ASPCoreWebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|d:\\practise\\aspcorewebapi\\aspcorewebapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|solutionrelative:aspcorewebapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|d:\\practise\\aspcorewebapi\\aspcorewebapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|solutionrelative:aspcorewebapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|d:\\practise\\aspcorewebapi\\aspcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|solutionrelative:aspcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|d:\\practise\\aspcorewebapi\\aspcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|solutionrelative:aspcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Migrations\\20240710111843_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPCoreWebAPI\\Migrations\\20240710111843_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|d:\\practise\\aspcorewebapi\\aspcorewebapi\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|solutionrelative:aspcorewebapi\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|d:\\practise\\aspcorewebapi\\aspcorewebapi\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|d:\\practise\\aspcorewebapi\\aspcorewebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|solutionrelative:aspcorewebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|d:\\practise\\aspcorewebapi\\aspcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|solutionrelative:aspcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|d:\\practise\\aspcorewebapi\\aspcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|solutionrelative:aspcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B98E5AE4-A78E-4BD0-A938-22D3FBC85D53}|ASPCoreWebAPI\\ASPCoreWebAPI.csproj|d:\\practise\\aspcorewebapi\\aspcorewebapi\\aspcorewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,37 +42,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Models\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPI\\Models\\UpdateEmployeeDto.cs",
+              "ToolTip": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Models\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "ASPCoreWebAPI\\Models\\UpdateEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:25:28.701Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Models\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPI\\Models\\EmployeeDTO.cs",
+              "ToolTip": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Models\\EmployeeDTO.cs",
+              "RelativeToolTip": "ASPCoreWebAPI\\Models\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:39:53.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "ASPCoreWebAPI\\Controllers\\EmployeesController.cs",
               "ToolTip": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "ASPCoreWebAPI\\Controllers\\EmployeesController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAlAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAA6wEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T11:45:52.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240710111843_initial migration.cs",
-              "DocumentMoniker": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Migrations\\20240710111843_initial migration.cs",
-              "RelativeDocumentMoniker": "ASPCoreWebAPI\\Migrations\\20240710111843_initial migration.cs",
-              "ToolTip": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Migrations\\20240710111843_initial migration.cs",
-              "RelativeToolTip": "ASPCoreWebAPI\\Migrations\\20240710111843_initial migration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T11:18:43.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "ASPCoreWebAPI\\Program.cs",
@@ -76,12 +96,11 @@
               "RelativeToolTip": "ASPCoreWebAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T11:03:00.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T11:03:00.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ASPCoreWebAPI\\appsettings.json",
@@ -89,12 +108,11 @@
               "RelativeToolTip": "ASPCoreWebAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-10T10:42:48.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T10:42:48.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ASPCoreWebAPI\\Data\\ApplicationDbContext.cs",
@@ -102,38 +120,31 @@
               "RelativeToolTip": "ASPCoreWebAPI\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T10:24:17.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T10:24:17.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Models\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "ASPCoreWebAPI\\Models\\Entities\\Employee.cs",
               "ToolTip": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\Models\\Entities\\Employee.cs",
               "RelativeToolTip": "ASPCoreWebAPI\\Models\\Entities\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T10:13:55.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T10:13:55.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ASPCoreWebAPI",
+              "DocumentIndex": 7,
+              "Title": "ASPCoreWebAPI.csproj",
               "DocumentMoniker": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\ASPCoreWebAPI.csproj",
               "RelativeDocumentMoniker": "ASPCoreWebAPI\\ASPCoreWebAPI.csproj",
               "ToolTip": "D:\\practise\\ASPCoreWebAPI\\ASPCoreWebAPI\\ASPCoreWebAPI.csproj",
               "RelativeToolTip": "ASPCoreWebAPI\\ASPCoreWebAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-10T09:38:55.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-07-10T09:38:55.676Z"
             }
           ]
         }
